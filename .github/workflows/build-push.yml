@@ -1,4 +1,4 @@
-name: Docker Builds, tags and pushes an image to DockerHub for Shinny 
+name: Docker Builds, tags and pushes an image to DockerHub for Shiny 
 
 on:
   push:

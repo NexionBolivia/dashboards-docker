@@ -1,2 +1,2 @@
 # dashboards
-Support Shinny dashboards used for KoBoToolbox
+Support Shiny dashboards used for KoBoToolbox
