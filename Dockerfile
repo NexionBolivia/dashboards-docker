@@ -8,5 +8,5 @@ RUN apt install -y git & \
 
 RUN apt install -y vim
      
-# RUN chmod +x /srv/install-packages.sh & \
-#     bash /srv/install-packages.sh 
+RUN chmod +x /srv/install-packages.sh & \
+    bash /srv/install-packages.sh
